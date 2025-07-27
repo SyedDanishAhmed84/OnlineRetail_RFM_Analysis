@@ -6,11 +6,11 @@ The dataset contains over 500,000 transaction records from a UK-based online ret
 ## 📊 RFM Analysis & Scoring
 For each customer, I calculated:
 
-⏰ Recency – How recently the customer made a purchase
+- ⏰ Recency – How recently the customer made a purchase
 
-🔄 Frequency – How often the customer made purchases
+- 🔄 Frequency – How often the customer made purchases
 
-💰 Monetary – How much total money the customer spent
+- 💰 Monetary – How much total money the customer spent
 
 Customers were scored on a 1–5 scale using quantiles, with higher scores indicating more valuable customers (e.g., recent, frequent, high spenders). These scores were combined into RFM segments.
 
@@ -18,11 +18,11 @@ Customers were scored on a 1–5 scale using quantiles, with higher scores indic
 Based on RFM scores, customers were grouped into segments:
 
 ## Segment	Description
-🥇 Champions	Recent, frequent, and high-spending customers
-🎯 Loyal Customers	Repeat buyers with strong spending
-🔎 Potential Loyalists	New customers with promising behavior
-⚠️ At Risk	Previously active customers now inactive
-❌ Lost	Inactive customers with minimal value
+- 🥇 Champions	Recent, frequent, and high-spending customers
+- 🎯 Loyal Customers	Repeat buyers with strong spending
+- 🔎 Potential Loyalists	New customers with promising behavior
+- ⚠️ At Risk	Previously active customers now inactive
+- ❌ Lost	Inactive customers with minimal value
 
 These groups help businesses create targeted marketing strategies such as loyalty rewards for champions and win-back campaigns for at-risk customers.
 
@@ -32,26 +32,26 @@ Used Matplotlib and Seaborn to create:
 📈 Heatmaps showing average R, F, M scores by segment
 
 ## 🎯 Key Outcomes
-Cleaned and processed over 500,000 transaction records
+- Cleaned and processed over 500,000 transaction records
 
-Calculated total spend and RFM metrics per customer
+- Calculated total spend and RFM metrics per customer
 
-Assigned quantile-based RFM scores for segmentation
+- Assigned quantile-based RFM scores for segmentation
 
-Grouped customers into actionable marketing segments
+- Grouped customers into actionable marketing segments
 
-Visualized segment profiles and distributions
+- Visualized segment profiles and distributions
 
 ## 🛠️ Technologies Used
-Python
+- Python
 
-Pandas – data manipulation
+- Pandas – data manipulation
 
-Matplotlib – data visualization
+- Matplotlib – data visualization
 
-Seaborn – heatmaps and charts
+- Seaborn – heatmaps and charts
 
-Jupyter Notebook – analysis environment
+- Jupyter Notebook – analysis environment
 
 👨‍💻 Author
 ## Syed Danish Ahmed
