@@ -54,7 +54,8 @@ Used Matplotlib and Seaborn to create:
 - Jupyter Notebook – analysis environment
 
 👨‍💻 Author
-## Syed Danish Ahmed
-## Aspiring Data Scientist | Computer Engineering Student
+Syed Danish Ahmed
+
+Aspiring Data Scientist | Computer Engineering Student
 
 If you found this project useful, please ⭐ the repo. Your support is appreciated!
