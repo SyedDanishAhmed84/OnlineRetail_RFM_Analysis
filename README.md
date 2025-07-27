@@ -1,7 +1,7 @@
 # 🛍️ RFM Customer Segmentation with Online Retail Dataset
 This project performs Recency-Frequency-Monetary (RFM) analysis on a large online retail dataset from Kaggle/UCI to better understand customer purchase behavior and segment customers for targeted marketing.
 
-The dataset contains over 500,000 transaction records from a UK-based online retailer between 2010 and 2011.
+The dataset contains over 500,000 transaction records from a UK-based online retailer between 2009 and 2011.
 
 ## 📊 RFM Analysis & Scoring
 For each customer, I calculated:
@@ -53,9 +53,12 @@ Used Matplotlib and Seaborn to create:
 
 - Jupyter Notebook – analysis environment
 
-👨‍💻 Author
-Syed Danish Ahmed
+## 👨‍💻 Author
 
-Aspiring Data Scientist | Computer Engineering Student
+**Syed Danish Ahmed**
+
+**Aspiring Data Scientist | Computer Engineering Student**
 
 If you found this project useful, please ⭐ the repo. Your support is appreciated!
+
+Dataset Source: Kaggle - https://www.kaggle.com/datasets/lakshmi25npathi/online-retail-dataset
